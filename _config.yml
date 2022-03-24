@@ -33,7 +33,7 @@ description: "This may be overkill but I wanted to do something special"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
