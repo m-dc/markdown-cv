@@ -1,7 +1,6 @@
----
-layout: home
-title: Software Tester
----
+# Software Tester
+
+### Matthias De Clercq
 
 <ul style="list-style: none;">
   <li>
