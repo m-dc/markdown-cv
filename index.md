@@ -11,7 +11,7 @@
   </li>
   <li>
     <img src="assets/phone.png" width="25" height="25" margin="auto">
-    [redacted]
+    04 722 98 272
   </li>
   <li>
     <img src="assets/linkedin.png" width="25" height="25" margin="auto">
