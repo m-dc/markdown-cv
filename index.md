@@ -61,7 +61,7 @@ __Cevora - System and network Administration Windows | Cisco networking academy_
 
 `Mar 2021 - Jan 2022`
 __19 coding school Brussels | 42 institute__
-Low level C where one builds libraries from scratch to use in all following assesments. Perfection is the baseline to pass an assignment. The whole structure is built around a peer-review process, which isn't ideal for me since I don't like that. I felt a bit alienated by the overwhelming majority of native french speakers. I much prefer to study alone and to maybe have a mentor that I can contact on the odd occasion that i need him. But having to deal with people for no apparent reason, that's something that I can't wrap my head around.
+Low level C where one builds libraries from scratch to use in all following assesments. Perfection is the baseline to pass an assignment. The whole structure is built around a peer-review process, which isn't ideal for me since I don't like that. I felt a bit alienated by the overwhelming majority of native french speakers. I much prefer to study alone and to maybe have a mentor that I can contact on the odd occasion that I require assistance.
  
 ### Experience
 
@@ -74,9 +74,9 @@ Yaska (Apple consultant) was looking for someone to:
   
 `Sep 2019 - April 2020`
 __Evonik Porphyrio NV - IoT support & network | System admin__
-IoT for the poultry industry. I honestly don't understand why I ever signed up for this. Imagine supporting poultry farmers with undiagnosed ASD. I had high hopes to learn something from their IoT and cloud infrastructure, but those quickly turned into ash. They burdened me with tasks that nobody wanted but also put me in a hole that I imagine no sane person could ever crawl out from. The people were great though. I felt mismanaged, I felt despair.
+IoT for the poultry industry. I honestly don't understand why I ever signed up for this. I had high hopes to learn something from their IoT and cloud infrastructure, but those hopes quickly turned into ash. They burdened me with tasks that nobody wanted but also put me in a hole that I imagine no sane person could ever crawl out from. The people were great though. I felt mismanaged, I felt despair.
 
-I was fascinated by devops. but for this one requires devops experience, which in se means survive as support for a couple of years to become a sysadmin. I simply cannot survive as customer support.
+I was fascinated by devops. but for this one requires devops experience, which in se means survive as support for a couple of years to become a sysadmin. customer support is an area that I shouldn't be in.
 
 ### Hobbies
 Investing | board games | chess, shogi, go | reading | gaming | Japanology | piano
