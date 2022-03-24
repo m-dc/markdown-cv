@@ -1,5 +1,3 @@
-# Software Tester
-
 <ul style="list-style: none;">
   <li>
     <img src="assets/mail.png" width="25" height="25" margin="auto">
