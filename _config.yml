@@ -29,8 +29,6 @@ baseurl: /_site/
 github_username:  m-dc
 linkedin_username: matthias-de-clercq
 
-description: "This may be overkill but I wanted to do something special"
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
