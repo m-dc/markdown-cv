@@ -56,8 +56,8 @@ __Cevora - System and network Administration Windows | Cisco networking academy_
 
 `Mar 2021 - Jan 2022`
 __19 coding school Brussels | 42 institute__
-Low level C where one builds libraries from scratch to use in all following assesments. Perfection is the baseline to pass an assignment. The whole structure is built around a peer-review process, which isn't ideal for me since I don't like that. I felt a bit alienated by the overwhelming majority of native french speakers. I much prefer to study alone and to maybe have a mentor that I can contact on the odd occasion that i need him. But having to deal with people for no apparent reason, that's something that I can't wrap my head around.
- 
+Low level C where one builds libraries from scratch to use in all following assesments. Perfection is the baseline to pass an assignment. The whole structure is built around a peer-review process, which isn't ideal for me since I don't like that. I felt a bit alienated by the overwhelming majority of native french speakers. I much prefer to study alone and to maybe have a mentor to rely on.
+
 ### Experience
 
 `Aug 2018 - May 2019`
