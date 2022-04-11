@@ -30,7 +30,7 @@ title: Software Tester
 
 ### Summary
 
-I have recently been diagnosed with **ASD**, which has allowed me to accept how life has turned out for me. Whilst I like to help people, too much social interaction burns me out. It dawned upon me that **Software tester** may be my calling. I excel at **pattern recognition** and I'm also a bit of a **creative mind**. Hardening **security** rivets me. Bug bounties writeups and ctfs peak my interest. Software tester would be the perfect gateway for me to not only enjoy these interests more, but also be usefull by helping out businesses in a way that I find **meaningfull**. Nonetheless, It must be noted that I do not excel at direct customer support. 
+I have recently been diagnosed with **ASD**, which has allowed me to accept how life has turned out for me. Whilst I like to help people, too much social interaction burns me out. It dawned upon me that **Software tester** may be my calling. I excel at **pattern recognition** and I'm also a bit of a **creative mind**. Hardening **security** rivets me. Bug bounties writeups and CTFs peak my interest. Software tester would be the perfect gateway for me to not only enjoy these interests more, but also be usefull by helping out businesses in a way that I find **meaningfull**. Nonetheless, It must be noted that I do not excel at direct customer support. 
 
 ### Currently
 
@@ -61,7 +61,7 @@ __Cevora - System and network Administration Windows | Cisco networking academy_
 
 `Mar 2021 - Jan 2022`
 __19 coding school Brussels | 42 institute__
-Low level C where one builds libraries from scratch to use in all following assesments. Perfection is the baseline to pass an assignment. The whole structure is built around a peer-review process, which isn't ideal for me since I don't like that. I felt a bit alienated by the overwhelming majority of native french speakers. I much prefer to study alone and to maybe have a mentor that I can contact on the odd occasion that I require assistance.
+Low level C where one builds libraries from scratch to use in all following assesments. Perfection is the baseline to pass an assignment. The whole structure is built around a peer-review process. I felt a bit alienated by the overwhelming majority of native french speakers. I much prefer to study alone and to have a mentor.
  
 ### Experience
 
@@ -74,9 +74,9 @@ Yaska (Apple consultant) was looking for someone to:
   
 `Sep 2019 - April 2020`
 __Evonik Porphyrio NV - IoT support & network | System admin__
-IoT for the poultry industry. I honestly don't understand why I ever signed up for this. I had high hopes to learn something from their IoT and cloud infrastructure, but those hopes quickly turned into ash. They burdened me with tasks that nobody wanted but also put me in a hole that I imagine no sane person could ever crawl out from. The people were great though. I felt mismanaged, I felt despair.
+IoT for the poultry industry. I honestly don't understand why I ever signed up for this. I had high hopes to learn something from their IoT and cloud infrastructure, but those hopes quickly turned into ash. They burdened me with tasks that nobody wanted. The people were great though. I felt mismanaged, a bit of despair.
 
-I was fascinated by devops. but for this one requires devops experience, which in se means survive as support for a couple of years to become a sysadmin. customer support is an area that I shouldn't be in.
+I was fascinated by devops. but for this one requires devops experience, which in se means survive as support for a couple of years to become a sysadmin. Direct customer support is an area that I shouldn't be in.
 
 ### Hobbies
 Investing | board games | chess, shogi, go | reading | gaming | Japanology | piano
