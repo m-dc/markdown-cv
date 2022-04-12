@@ -69,7 +69,7 @@ Yaska (Apple consultant) was looking for someone to:
   
 `Sep 2019 - April 2020`
 __Evonik Porphyrio NV - IoT support & network | System admin__
-IoT for the poultry industry. I honestly don't understand why I ever signed up for this. Imagine supporting poultry farmers with undiagnosed ASD. I had high hopes to learn something from their IoT and cloud infrastructure, but those quickly turned into ash. They burdened me with tasks that nobody wanted but also put me in a hole that I imagine no sane person could ever crawl out from. The people were great though. I felt mismanaged, I felt despair.
+IoT for the poultry industry. I honestly don't understand why I ever signed up for this. Supporting poultry farmers with undiagnosed ASD was not ideal. I had high hopes to learn something from their IoT and cloud infrastructure. The people were great though. I felt mismanaged, I felt despair. We weren't a good match.
 
 I was fascinated by devops. but for this one requires devops experience, which in se means survive as support for a couple of years to become a sysadmin. I simply cannot survive as customer support.
 
